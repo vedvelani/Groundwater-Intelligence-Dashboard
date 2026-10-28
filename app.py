@@ -1,8 +1,4 @@
-    """
-    Explainable ML for Groundwater Quality Classification
-    Dashboard with Basic + Advanced Data Structures.
-    Run: streamlit run app.py
-    """
+  
     import io, heapq, json, math
     from collections import Counter, deque, defaultdict
     from pathlib import Path
